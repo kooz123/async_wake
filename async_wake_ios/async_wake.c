@@ -928,7 +928,7 @@ mach_port_t go() {
      
      You only have to do this once. BE CAREFUL, IT IS NOT MY FAULT IF YOU FUCK THIS UP
      */
-    bool shouldChangeResolution = false;
+    bool shouldChangeResolution = true;
 
     if(shouldChangeResolution){
         
